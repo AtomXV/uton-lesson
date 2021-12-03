@@ -1,0 +1,12 @@
+{
+    "CMD": "RT_DATA",
+    "DeviceID": "111",
+    "Date": "2021-11-01 11:12:00",
+    "Data": {
+    "temp": 26.68,
+    "humidity": 72.55,
+    "pressure": 48.8,
+    "windspeed": 4.72,
+    "winddirection": 129.9
+    }
+}
